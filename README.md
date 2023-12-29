@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mahabub Alam</h1>
 <h3 align="center">A passionate SQA Engineer and Software Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/MahbubIT3/MahbubIT3/blob/main/Animation%20-%201703841757455.gif">
 - 🌱 I’m currently learning **Dotnet Core, Selenium**
 
 - 📫 How to reach me **mahabubalam.se2018@gmail.com**
