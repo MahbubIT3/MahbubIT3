@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mahabub Alam</h1>
-<h3 align="center">A passionate SQA Engineer and Software Developer</h3>
+<h3 align="center">Software Engineer | Passionate Learner | Tech Enthusiast</h3>
 <img align = "right" width="300" src="https://assets-v2.lottiefiles.com/a/2400d3fc-1169-11ee-b0ad-838e26a2122a/kaH6FiWHlK.gif"/>
 
 - 🌱 I’m currently learning **Dotnet Core, Selenium**
