@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahbubIT3&show_icons=true&locale=en&layout=compact" alt="MahbubIT3" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MahbubIT3&show_icons=true&locale=en" alt="MahbubIT3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahbubIT3&show_icons=true&count_private=true&locale=en" alt="MahbubIT3" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahbubIT3&" alt="MahbubIT3" />
