@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mahabub Alam</h1>
 <h3 align="center">A passionate SQA Engineer and Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F14584578-Office-Workers-Lottie-Animations&psig=AOvVaw0PrsBYezDTcrQcY1xHfiMU&ust=1703930377438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiftrixtIMDFQAAAAAdAAAAABAI">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/14584578/attachments/6275301?mode=media">
 - 🌱 I’m currently learning **Dotnet Core, Selenium**
 
 - 📫 How to reach me **mahabubalam.se2018@gmail.com**
