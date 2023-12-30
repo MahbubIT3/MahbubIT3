@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Passionate Learner</h3>
 <img align = "right" width="300" src="https://assets-v2.lottiefiles.com/a/2400d3fc-1169-11ee-b0ad-838e26a2122a/kaH6FiWHlK.gif"/>
 
-- 🌱 I’m currently learning **Dotnet Core, Selenium**
+- 🌱 I’m currently learning **Dotnet Core, Selenium, Cypress**
 
 - 📫 How to reach me **mahabubalam.se2018@gmail.com**
 <div>
